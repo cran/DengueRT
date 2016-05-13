@@ -1,0 +1,7 @@
+export(allmodels,allmodelpredict,changetimeFSTP)
+import(nlme,ggplot2,drc)
+S3method(summary,dengue)
+S3method(plot,dengue)
+importFrom("grDevices", "dev.new")
+importFrom("graphics", "legend", "lines", "plot")
+importFrom("stats", "AIC", "D", "coef", "nls", "predict", "qt")

@@ -1,0 +1,13 @@
+d03be23a6407a4b0e262d6361fae8727 *DESCRIPTION
+f615987e5822e62c3e51e0ba221f70cd *NAMESPACE
+2f4a3d1b84ac3a9e84e03d82e04d2654 *R/DengueRT.R
+489221d4f0edfd28858fe20cd43f383c *data/dengueoutbreak1.rda
+a04cf9a30d2f43e69ef135f0bf7cc07e *data/dengueoutbreak2.rda
+f15749cf32025500ec4cad38b09ba42f *man/DengueRT-package.Rd
+1cd11171c574ab6be39b3210bc576c1c *man/allmodelpredict.Rd
+505bc88b116038ff2fd0df2afb096c59 *man/allmodels.Rd
+c8971bb44ab5d5e0936d05e811438eed *man/changetimeFSTP.Rd
+1230e0af41a1b79b5bbc7e86f19dba64 *man/dengueoutbreak1.Rd
+12d02302ade7b55b0521ef7050df9d65 *man/dengueoutbreak2.Rd
+40e66b50aa42ed0a42cbdc1d882591fa *man/plot.Rd
+970b82d2bd4c98bd669cd13405151c49 *man/summary.Rd
